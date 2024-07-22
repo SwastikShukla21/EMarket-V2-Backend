@@ -1,3 +1,8 @@
+## Features
+
+- **Asynchronous Task Execution**: Uses Celery and Redis to handle background tasks efficiently.
+- **Email Reports**: Sends summary reports via email.
+- **CSV Report Generation**: Dynamically creates CSV files for generating reports.
 ### Starting the backend
 
 ### Note: Open all in seperate terminals
