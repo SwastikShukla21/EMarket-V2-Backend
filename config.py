@@ -29,5 +29,5 @@ if admin is None:
 cache = Cache(app)
 smtp_server = 'smtp.gmail.com'
 port = 587
-smtp_username = 'swastik01cs@gmail.com'
-smtp_password = 'hdqrvtnsmrbhomuf'
+smtp_username = 'username@gmail.com'
+smtp_password = '**************'
